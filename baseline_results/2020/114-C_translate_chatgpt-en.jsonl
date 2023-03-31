@@ -1,0 +1,75 @@
+{"problem_id": "114C1", "prediction": "c", "explanation": "c"}
+{"problem_id": "114C2", "prediction": "a", "explanation": "a"}
+{"problem_id": "114C3", "prediction": "b", "explanation": "b"}
+{"problem_id": "114C4", "prediction": "e", "explanation": "e"}
+{"problem_id": "114C5", "prediction": "c", "explanation": "c"}
+{"problem_id": "114C6", "prediction": "a", "explanation": "a"}
+{"problem_id": "114C7", "prediction": "d", "explanation": "d"}
+{"problem_id": "114C8", "prediction": "c", "explanation": "c"}
+{"problem_id": "114C9", "prediction": "d", "explanation": "d"}
+{"problem_id": "114C10", "prediction": "d", "explanation": "d"}
+{"problem_id": "114C11", "prediction": "d", "explanation": "d"}
+{"problem_id": "114C12", "prediction": "c", "explanation": "c"}
+{"problem_id": "114C13", "prediction": "a", "explanation": "a"}
+{"problem_id": "114C14", "prediction": "a (autosomal dominant inheritance)", "explanation": "a (autosomal dominant inheritance)"}
+{"problem_id": "114C15", "prediction": "d", "explanation": "d"}
+{"problem_id": "114C16", "prediction": "d", "explanation": "d"}
+{"problem_id": "114C17", "prediction": "d", "explanation": "d"}
+{"problem_id": "114C18", "prediction": "a", "explanation": "a"}
+{"problem_id": "114C19", "prediction": "a", "explanation": "a"}
+{"problem_id": "114C20", "prediction": "b (cerebrovascular disease)", "explanation": "b (cerebrovascular disease)"}
+{"problem_id": "114C21", "prediction": "c", "explanation": "c"}
+{"problem_id": "114C22", "prediction": "a", "explanation": "a"}
+{"problem_id": "114C23", "prediction": "d", "explanation": "d"}
+{"problem_id": "114C24", "prediction": "b", "explanation": "b"}
+{"problem_id": "114C25", "prediction": "b", "explanation": "b"}
+{"problem_id": "114C26", "prediction": "b,d", "explanation": "b,d"}
+{"problem_id": "114C27", "prediction": "a,c", "explanation": "a,c"}
+{"problem_id": "114C28", "prediction": "d,e", "explanation": "d,e"}
+{"problem_id": "114C29", "prediction": "b,c", "explanation": "b,c"}
+{"problem_id": "114C30", "prediction": "c,d", "explanation": "c,d"}
+{"problem_id": "114C31", "prediction": "b,c", "explanation": "b,c"}
+{"problem_id": "114C32", "prediction": "a, c, d", "explanation": "a, c, d"}
+{"problem_id": "114C33", "prediction": "b, d, e", "explanation": "b, d, e"}
+{"problem_id": "114C34", "prediction": "a,c,e", "explanation": "a,c,e"}
+{"problem_id": "114C35", "prediction": "e", "explanation": "e"}
+{"problem_id": "114C36", "prediction": "e", "explanation": "e"}
+{"problem_id": "114C37", "prediction": "b", "explanation": "b"}
+{"problem_id": "114C38", "prediction": "b", "explanation": "b"}
+{"problem_id": "114C39", "prediction": "d", "explanation": "d"}
+{"problem_id": "114C40", "prediction": "a", "explanation": "a"}
+{"problem_id": "114C41", "prediction": "b", "explanation": "b"}
+{"problem_id": "114C42", "prediction": "d", "explanation": "d"}
+{"problem_id": "114C43", "prediction": "b", "explanation": "b"}
+{"problem_id": "114C44", "prediction": "c", "explanation": "c"}
+{"problem_id": "114C45", "prediction": "d", "explanation": "d"}
+{"problem_id": "114C46", "prediction": "d", "explanation": "d"}
+{"problem_id": "114C47", "prediction": "d", "explanation": "d"}
+{"problem_id": "114C48", "prediction": "d", "explanation": "d"}
+{"problem_id": "114C49", "prediction": "d", "explanation": "d"}
+{"problem_id": "114C50", "prediction": "e", "explanation": "e"}
+{"problem_id": "114C51", "prediction": "d", "explanation": "d"}
+{"problem_id": "114C52", "prediction": "a", "explanation": "a"}
+{"problem_id": "114C53", "prediction": "a", "explanation": "a"}
+{"problem_id": "114C54", "prediction": "b", "explanation": "b"}
+{"problem_id": "114C55", "prediction": "e", "explanation": "e"}
+{"problem_id": "114C56", "prediction": "b", "explanation": "b"}
+{"problem_id": "114C57", "prediction": "c,e", "explanation": "c,e"}
+{"problem_id": "114C58", "prediction": "c,e", "explanation": "c,e"}
+{"problem_id": "114C59", "prediction": "c,d", "explanation": "c,d"}
+{"problem_id": "114C60", "prediction": "a", "explanation": "a"}
+{"problem_id": "114C61", "prediction": "b,d", "explanation": "b,d"}
+{"problem_id": "114C62", "prediction": "d", "explanation": "d"}
+{"problem_id": "114C63", "prediction": "e", "explanation": "e"}
+{"problem_id": "114C64", "prediction": "none of the options given are appropriate following venous access placement. the next step would depend on the clinical situation and reason for the venous access placement.", "explanation": "none of the options given are appropriate following venous access placement. the next step would depend on the clinical situation and reason for the venous access placement."}
+{"problem_id": "114C65", "prediction": "c", "explanation": "c"}
+{"problem_id": "114C66", "prediction": "b", "explanation": "b"}
+{"problem_id": "114C67", "prediction": "a", "explanation": "a"}
+{"problem_id": "114C68", "prediction": "e", "explanation": "e"}
+{"problem_id": "114C69", "prediction": "a", "explanation": "a"}
+{"problem_id": "114C70", "prediction": "d", "explanation": "d"}
+{"problem_id": "114C71", "prediction": "a", "explanation": "a"}
+{"problem_id": "114C72", "prediction": "a, b, e", "explanation": "a, b, e"}
+{"problem_id": "114C73", "prediction": "a, c, d", "explanation": "a, c, d"}
+{"problem_id": "114C74", "prediction": "b", "explanation": "b"}
+{"problem_id": "114C75", "prediction": "first, we need to calculate the standardized mortality ratio:\n\nsmr = (observed deaths / expected deaths) x 100\n\nfor each age group:\n\nsmr (0-19) = (20 / 20,000 x 120,000 / 510) x 100 = 0.74\nsmr (20-64) = (140 / 70,000 x 120,000 / 510) x 100 = 0.49\nsmr (65 and older) = (350 / 10,000 x 120,000 / 510) x 100 = 8.24\n\nthen, we calculate the weighted average:\n\nage-adjusted death rate = (smr (0-19) x japan population (0-19) + smr (20-64) x japan population (20-64) + smr (65 and older) x japan population (65 and older)) / japan population (total) x 1,000\n\nage-adjusted death rate = (0.74 x 20,000,000 + 0.49 x 70,000,000 + 8.24 x 30,000,000) / 120,000,000 x 1,000 = ①②.③/1,000\n\ntherefore, the age-adjusted death rate per 1,000 population in city a is ①②.③/1,000 using the direct method with the population of japan as the standard population.", "explanation": "first, we need to calculate the standardized mortality ratio:\n\nsmr = (observed deaths / expected deaths) x 100\n\nfor each age group:\n\nsmr (0-19) = (20 / 20,000 x 120,000 / 510) x 100 = 0.74\nsmr (20-64) = (140 / 70,000 x 120,000 / 510) x 100 = 0.49\nsmr (65 and older) = (350 / 10,000 x 120,000 / 510) x 100 = 8.24\n\nthen, we calculate the weighted average:\n\nage-adjusted death rate = (smr (0-19) x japan population (0-19) + smr (20-64) x japan population (20-64) + smr (65 and older) x japan population (65 and older)) / japan population (total) x 1,000\n\nage-adjusted death rate = (0.74 x 20,000,000 + 0.49 x 70,000,000 + 8.24 x 30,000,000) / 120,000,000 x 1,000 = ①②.③/1,000\n\ntherefore, the age-adjusted death rate per 1,000 population in city a is ①②.③/1,000 using the direct method with the population of japan as the standard population."}

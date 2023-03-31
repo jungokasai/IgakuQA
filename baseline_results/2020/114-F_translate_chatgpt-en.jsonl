@@ -1,0 +1,75 @@
+{"problem_id": "114F1", "prediction": "e", "explanation": "e"}
+{"problem_id": "114F2", "prediction": "c", "explanation": "c"}
+{"problem_id": "114F3", "prediction": "e", "explanation": "e"}
+{"problem_id": "114F4", "prediction": "d", "explanation": "d"}
+{"problem_id": "114F5", "prediction": "d", "explanation": "d"}
+{"problem_id": "114F6", "prediction": "a", "explanation": "a"}
+{"problem_id": "114F7", "prediction": "b", "explanation": "b"}
+{"problem_id": "114F8", "prediction": "a", "explanation": "a"}
+{"problem_id": "114F9", "prediction": "a", "explanation": "a"}
+{"problem_id": "114F10", "prediction": "c", "explanation": "c"}
+{"problem_id": "114F11", "prediction": "d", "explanation": "d"}
+{"problem_id": "114F12", "prediction": "b", "explanation": "b"}
+{"problem_id": "114F13", "prediction": "d", "explanation": "d"}
+{"problem_id": "114F14", "prediction": "b", "explanation": "b"}
+{"problem_id": "114F15", "prediction": "sorry, without any additional context or information, it is not possible to provide an answer to this question.", "explanation": "sorry, without any additional context or information, it is not possible to provide an answer to this question."}
+{"problem_id": "114F16", "prediction": "a", "explanation": "a"}
+{"problem_id": "114F17", "prediction": "e", "explanation": "e"}
+{"problem_id": "114F18", "prediction": "a", "explanation": "a"}
+{"problem_id": "114F19", "prediction": "d", "explanation": "d"}
+{"problem_id": "114F20", "prediction": "b", "explanation": "b"}
+{"problem_id": "114F21", "prediction": "d", "explanation": "d"}
+{"problem_id": "114F22", "prediction": "b", "explanation": "b"}
+{"problem_id": "114F23", "prediction": "a", "explanation": "a"}
+{"problem_id": "114F24", "prediction": "c", "explanation": "c"}
+{"problem_id": "114F25", "prediction": "b", "explanation": "b"}
+{"problem_id": "114F26", "prediction": "b", "explanation": "b"}
+{"problem_id": "114F27", "prediction": "d,e", "explanation": "d,e"}
+{"problem_id": "114F28", "prediction": "b,c", "explanation": "b,c"}
+{"problem_id": "114F29", "prediction": "c, d", "explanation": "c, d"}
+{"problem_id": "114F30", "prediction": "b,e", "explanation": "b,e"}
+{"problem_id": "114F31", "prediction": "a,d", "explanation": "a,d"}
+{"problem_id": "114F32", "prediction": "b,e", "explanation": "b,e"}
+{"problem_id": "114F33", "prediction": "a, c, e", "explanation": "a, c, e"}
+{"problem_id": "114F34", "prediction": "b, d, e", "explanation": "b, d, e"}
+{"problem_id": "114F35", "prediction": "a", "explanation": "a"}
+{"problem_id": "114F36", "prediction": "a", "explanation": "a"}
+{"problem_id": "114F37", "prediction": "a", "explanation": "a"}
+{"problem_id": "114F38", "prediction": "c", "explanation": "c"}
+{"problem_id": "114F39", "prediction": "d", "explanation": "d"}
+{"problem_id": "114F40", "prediction": "b", "explanation": "b"}
+{"problem_id": "114F41", "prediction": "b", "explanation": "b"}
+{"problem_id": "114F42", "prediction": "e", "explanation": "e"}
+{"problem_id": "114F43", "prediction": "e", "explanation": "e"}
+{"problem_id": "114F44", "prediction": "a", "explanation": "a"}
+{"problem_id": "114F45", "prediction": "a", "explanation": "a"}
+{"problem_id": "114F46", "prediction": "b", "explanation": "b"}
+{"problem_id": "114F47", "prediction": "a", "explanation": "a"}
+{"problem_id": "114F48", "prediction": "a", "explanation": "a"}
+{"problem_id": "114F49", "prediction": "a", "explanation": "a"}
+{"problem_id": "114F50", "prediction": "e", "explanation": "e"}
+{"problem_id": "114F51", "prediction": "e", "explanation": "e"}
+{"problem_id": "114F52", "prediction": "e", "explanation": "e"}
+{"problem_id": "114F53", "prediction": "b", "explanation": "b"}
+{"problem_id": "114F54", "prediction": "c", "explanation": "c"}
+{"problem_id": "114F55", "prediction": "c", "explanation": "c"}
+{"problem_id": "114F56", "prediction": "b", "explanation": "b"}
+{"problem_id": "114F57", "prediction": "d, e", "explanation": "d, e"}
+{"problem_id": "114F58", "prediction": "c,e", "explanation": "c,e"}
+{"problem_id": "114F59", "prediction": "b, d, e", "explanation": "b, d, e"}
+{"problem_id": "114F60", "prediction": "a", "explanation": "a"}
+{"problem_id": "114F61", "prediction": "d", "explanation": "d"}
+{"problem_id": "114F62", "prediction": "a,c", "explanation": "a,c"}
+{"problem_id": "114F63", "prediction": "c", "explanation": "c"}
+{"problem_id": "114F64", "prediction": "c", "explanation": "c"}
+{"problem_id": "114F65", "prediction": "c", "explanation": "c"}
+{"problem_id": "114F66", "prediction": "a", "explanation": "a"}
+{"problem_id": "114F67", "prediction": "c", "explanation": "c"}
+{"problem_id": "114F68", "prediction": "b", "explanation": "b"}
+{"problem_id": "114F69", "prediction": "b", "explanation": "b"}
+{"problem_id": "114F70", "prediction": "a: ① \"i will prescribe nsaids and three antibiotics for helicobacter pylori eradication therapy.\"", "explanation": "a: ① \"i will prescribe nsaids and three antibiotics for helicobacter pylori eradication therapy.\""}
+{"problem_id": "114F71", "prediction": "a, e", "explanation": "a, e"}
+{"problem_id": "114F72", "prediction": "c,e", "explanation": "c,e"}
+{"problem_id": "114F73", "prediction": "b, e", "explanation": "b, e"}
+{"problem_id": "114F74", "prediction": "e", "explanation": "e"}
+{"problem_id": "114F75", "prediction": "first, we need to calculate the energy provided by glucose and amino acids:\n\nglucose = 1,500 ml x 0.15 g/ml x 4 kcal/g = 900 kcal\namino acids = 1,500 ml x 0.02 g/ml x 4 kcal/g = 120 kcal\n\nnext, we need to calculate the energy provided by the fat emulsion:\n\n100 ml x 1.1 kcal/ml = 110 kcal\n\nfinally, we add up the energy from all components:\n\ntotal energy = glucose + amino acids + fat emulsion\ntotal energy = 900 kcal + 120 kcal + 110 kcal\ntotal energy = 1130 kcal \n\ntherefore, the total energy per day delivered by the parenteral nutrition is 1130 kcal.", "explanation": "first, we need to calculate the energy provided by glucose and amino acids:\n\nglucose = 1,500 ml x 0.15 g/ml x 4 kcal/g = 900 kcal\namino acids = 1,500 ml x 0.02 g/ml x 4 kcal/g = 120 kcal\n\nnext, we need to calculate the energy provided by the fat emulsion:\n\n100 ml x 1.1 kcal/ml = 110 kcal\n\nfinally, we add up the energy from all components:\n\ntotal energy = glucose + amino acids + fat emulsion\ntotal energy = 900 kcal + 120 kcal + 110 kcal\ntotal energy = 1130 kcal \n\ntherefore, the total energy per day delivered by the parenteral nutrition is 1130 kcal."}

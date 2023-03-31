@@ -1,0 +1,75 @@
+{"problem_id": "115F1", "prediction": "e", "explanation": "e"}
+{"problem_id": "115F2", "prediction": "b. choice 2 is personal protective equipment.", "explanation": "b. choice 2 is personal protective equipment."}
+{"problem_id": "115F3", "prediction": "c", "explanation": "c"}
+{"problem_id": "115F4", "prediction": "d", "explanation": "d"}
+{"problem_id": "115F5", "prediction": "c", "explanation": "c"}
+{"problem_id": "115F6", "prediction": "a", "explanation": "a"}
+{"problem_id": "115F7", "prediction": "86", "explanation": "86"}
+{"problem_id": "115F8", "prediction": "c", "explanation": "c"}
+{"problem_id": "115F9", "prediction": "a", "explanation": "a"}
+{"problem_id": "115F10", "prediction": "d", "explanation": "d"}
+{"problem_id": "115F11", "prediction": "c", "explanation": "c"}
+{"problem_id": "115F12", "prediction": "b", "explanation": "b"}
+{"problem_id": "115F13", "prediction": "c", "explanation": "c"}
+{"problem_id": "115F14", "prediction": "c", "explanation": "c"}
+{"problem_id": "115F15", "prediction": "c", "explanation": "c"}
+{"problem_id": "115F16", "prediction": "e", "explanation": "e"}
+{"problem_id": "115F17", "prediction": "sorry, i am an ai language model and i cannot see the images referred to in the problem. can you please provide more information or context so that i can better understand the question?", "explanation": "sorry, i am an ai language model and i cannot see the images referred to in the problem. can you please provide more information or context so that i can better understand the question?"}
+{"problem_id": "115F18", "prediction": "d", "explanation": "d"}
+{"problem_id": "115F19", "prediction": "b", "explanation": "b"}
+{"problem_id": "115F20", "prediction": "b", "explanation": "b"}
+{"problem_id": "115F21", "prediction": "b", "explanation": "b"}
+{"problem_id": "115F22", "prediction": "b", "explanation": "b"}
+{"problem_id": "115F23", "prediction": "c", "explanation": "c"}
+{"problem_id": "115F24", "prediction": "d", "explanation": "d"}
+{"problem_id": "115F25", "prediction": "d", "explanation": "d"}
+{"problem_id": "115F26", "prediction": "d", "explanation": "d"}
+{"problem_id": "115F27", "prediction": "d", "explanation": "d"}
+{"problem_id": "115F28", "prediction": "e", "explanation": "e"}
+{"problem_id": "115F29", "prediction": "d", "explanation": "d"}
+{"problem_id": "115F30", "prediction": "a, d", "explanation": "a, d"}
+{"problem_id": "115F31", "prediction": "b,c", "explanation": "b,c"}
+{"problem_id": "115F32", "prediction": "a,e", "explanation": "a,e"}
+{"problem_id": "115F33", "prediction": "d,e", "explanation": "d,e"}
+{"problem_id": "115F34", "prediction": "b,d,e", "explanation": "b,d,e"}
+{"problem_id": "115F35", "prediction": "a", "explanation": "a"}
+{"problem_id": "115F36", "prediction": "a", "explanation": "a"}
+{"problem_id": "115F37", "prediction": "a", "explanation": "a"}
+{"problem_id": "115F38", "prediction": "a", "explanation": "a"}
+{"problem_id": "115F39", "prediction": "c", "explanation": "c"}
+{"problem_id": "115F40", "prediction": "e", "explanation": "e"}
+{"problem_id": "115F41", "prediction": "c", "explanation": "c"}
+{"problem_id": "115F42", "prediction": "a", "explanation": "a"}
+{"problem_id": "115F43", "prediction": "d", "explanation": "d"}
+{"problem_id": "115F44", "prediction": "e", "explanation": "e"}
+{"problem_id": "115F45", "prediction": "b", "explanation": "b"}
+{"problem_id": "115F46", "prediction": "d", "explanation": "d"}
+{"problem_id": "115F47", "prediction": "e", "explanation": "e"}
+{"problem_id": "115F48", "prediction": "e", "explanation": "e"}
+{"problem_id": "115F49", "prediction": "b", "explanation": "b"}
+{"problem_id": "115F50", "prediction": "d", "explanation": "d"}
+{"problem_id": "115F51", "prediction": "d", "explanation": "d"}
+{"problem_id": "115F52", "prediction": "c", "explanation": "c"}
+{"problem_id": "115F53", "prediction": "b", "explanation": "b"}
+{"problem_id": "115F54", "prediction": "a, d", "explanation": "a, d"}
+{"problem_id": "115F55", "prediction": "a,e", "explanation": "a,e"}
+{"problem_id": "115F56", "prediction": "a, d", "explanation": "a, d"}
+{"problem_id": "115F57", "prediction": "a, b", "explanation": "a, b"}
+{"problem_id": "115F58", "prediction": "b, d", "explanation": "b, d"}
+{"problem_id": "115F59", "prediction": "a,d,e", "explanation": "a,d,e"}
+{"problem_id": "115F60", "prediction": "b", "explanation": "b"}
+{"problem_id": "115F61", "prediction": "b,c,e", "explanation": "b,c,e"}
+{"problem_id": "115F62", "prediction": "a", "explanation": "a"}
+{"problem_id": "115F63", "prediction": "b", "explanation": "b"}
+{"problem_id": "115F64", "prediction": "e", "explanation": "e"}
+{"problem_id": "115F65", "prediction": "b", "explanation": "b"}
+{"problem_id": "115F66", "prediction": "a", "explanation": "a"}
+{"problem_id": "115F67", "prediction": "d", "explanation": "d"}
+{"problem_id": "115F68", "prediction": "b", "explanation": "b"}
+{"problem_id": "115F69", "prediction": "b", "explanation": "b"}
+{"problem_id": "115F70", "prediction": "e", "explanation": "e"}
+{"problem_id": "115F71", "prediction": "e", "explanation": "e"}
+{"problem_id": "115F72", "prediction": "b,d,e", "explanation": "b,d,e"}
+{"problem_id": "115F73", "prediction": "a", "explanation": "a"}
+{"problem_id": "115F74", "prediction": "e", "explanation": "e"}
+{"problem_id": "115F75", "prediction": "①risk of lung cancer in smokers = 408/40,000 = 0.0102\nrisk of lung cancer in nonsmokers = 72/60,000 = 0.0012\nrisk ratio of lung cancer due to smoking = 0.0102/0.0012 = 8.5\n\n②8.5", "explanation": "①risk of lung cancer in smokers = 408/40,000 = 0.0102\nrisk of lung cancer in nonsmokers = 72/60,000 = 0.0012\nrisk ratio of lung cancer due to smoking = 0.0102/0.0012 = 8.5\n\n②8.5"}

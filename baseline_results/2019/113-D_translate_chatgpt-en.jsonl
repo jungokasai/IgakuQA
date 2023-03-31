@@ -1,0 +1,75 @@
+{"problem_id": "113D1", "prediction": "c", "explanation": "c"}
+{"problem_id": "113D2", "prediction": "b", "explanation": "b"}
+{"problem_id": "113D3", "prediction": "d", "explanation": "d"}
+{"problem_id": "113D4", "prediction": "c: the cylinder axis calibration from 0 to 180 degrees on a phoropter.", "explanation": "c: the cylinder axis calibration from 0 to 180 degrees on a phoropter."}
+{"problem_id": "113D5", "prediction": "b", "explanation": "b"}
+{"problem_id": "113D6", "prediction": "b", "explanation": "b"}
+{"problem_id": "113D7", "prediction": "c", "explanation": "c"}
+{"problem_id": "113D8", "prediction": "a", "explanation": "a"}
+{"problem_id": "113D9", "prediction": "a", "explanation": "a"}
+{"problem_id": "113D10", "prediction": "b", "explanation": "b"}
+{"problem_id": "113D11", "prediction": "a", "explanation": "a"}
+{"problem_id": "113D12", "prediction": "d", "explanation": "d"}
+{"problem_id": "113D13", "prediction": "b", "explanation": "b"}
+{"problem_id": "113D14", "prediction": "a,c", "explanation": "a,c"}
+{"problem_id": "113D15", "prediction": "a,e", "explanation": "a,e"}
+{"problem_id": "113D16", "prediction": "b", "explanation": "b"}
+{"problem_id": "113D17", "prediction": "e", "explanation": "e"}
+{"problem_id": "113D18", "prediction": "b", "explanation": "b"}
+{"problem_id": "113D19", "prediction": "a. early postoperative ambulation is appropriate for this patient. all other options are important considerations for this patient's perioperative management. preoperative smoking cessation counseling should be provided to reduce the risk of postoperative complications, oxygen therapy may be necessary due to the patient's respiratory condition, there is a risk of postoperative exacerbation of interstitial pneumonia and the need for home oxygen therapy after surgery should be considered.", "explanation": "a. early postoperative ambulation is appropriate for this patient. all other options are important considerations for this patient's perioperative management. preoperative smoking cessation counseling should be provided to reduce the risk of postoperative complications, oxygen therapy may be necessary due to the patient's respiratory condition, there is a risk of postoperative exacerbation of interstitial pneumonia and the need for home oxygen therapy after surgery should be considered."}
+{"problem_id": "113D20", "prediction": "e", "explanation": "e"}
+{"problem_id": "113D21", "prediction": "b", "explanation": "b"}
+{"problem_id": "113D22", "prediction": "d", "explanation": "d"}
+{"problem_id": "113D23", "prediction": "e", "explanation": "e"}
+{"problem_id": "113D24", "prediction": "it is not possible to determine the treatment performed based solely on the information provided.", "explanation": "it is not possible to determine the treatment performed based solely on the information provided."}
+{"problem_id": "113D25", "prediction": "c. 4.0 5 10 5 (measured in l/min/m2, mmhg, mmhg, mmhg respectively)", "explanation": "c. 4.0 5 10 5 (measured in l/min/m2, mmhg, mmhg, mmhg respectively)"}
+{"problem_id": "113D26", "prediction": "b", "explanation": "b"}
+{"problem_id": "113D27", "prediction": "a", "explanation": "a"}
+{"problem_id": "113D28", "prediction": "a", "explanation": "a"}
+{"problem_id": "113D29", "prediction": "b", "explanation": "b"}
+{"problem_id": "113D30", "prediction": "b. nasopharynx.", "explanation": "b. nasopharynx."}
+{"problem_id": "113D31", "prediction": "d", "explanation": "d"}
+{"problem_id": "113D32", "prediction": "e", "explanation": "e"}
+{"problem_id": "113D33", "prediction": "e", "explanation": "e"}
+{"problem_id": "113D34", "prediction": "b", "explanation": "b"}
+{"problem_id": "113D35", "prediction": "e", "explanation": "e"}
+{"problem_id": "113D36", "prediction": "a", "explanation": "a"}
+{"problem_id": "113D37", "prediction": "b", "explanation": "b"}
+{"problem_id": "113D38", "prediction": "d", "explanation": "d"}
+{"problem_id": "113D39", "prediction": "b", "explanation": "b"}
+{"problem_id": "113D40", "prediction": "b", "explanation": "b"}
+{"problem_id": "113D41", "prediction": "a", "explanation": "a"}
+{"problem_id": "113D42", "prediction": "e", "explanation": "e"}
+{"problem_id": "113D43", "prediction": "d", "explanation": "d"}
+{"problem_id": "113D44", "prediction": "e", "explanation": "e"}
+{"problem_id": "113D45", "prediction": "c", "explanation": "c"}
+{"problem_id": "113D46", "prediction": "c", "explanation": "c"}
+{"problem_id": "113D47", "prediction": "c", "explanation": "c"}
+{"problem_id": "113D48", "prediction": "b", "explanation": "b"}
+{"problem_id": "113D49", "prediction": "e", "explanation": "e"}
+{"problem_id": "113D50", "prediction": "e", "explanation": "e"}
+{"problem_id": "113D51", "prediction": "d", "explanation": "d"}
+{"problem_id": "113D52", "prediction": "b", "explanation": "b"}
+{"problem_id": "113D53", "prediction": "e", "explanation": "e"}
+{"problem_id": "113D54", "prediction": "b", "explanation": "b"}
+{"problem_id": "113D55", "prediction": "e", "explanation": "e"}
+{"problem_id": "113D56", "prediction": "c", "explanation": "c"}
+{"problem_id": "113D57", "prediction": "e", "explanation": "e"}
+{"problem_id": "113D58", "prediction": "d", "explanation": "d"}
+{"problem_id": "113D59", "prediction": "b", "explanation": "b"}
+{"problem_id": "113D60", "prediction": "e", "explanation": "e"}
+{"problem_id": "113D61", "prediction": "b", "explanation": "b"}
+{"problem_id": "113D62", "prediction": "c", "explanation": "c"}
+{"problem_id": "113D63", "prediction": "e", "explanation": "e"}
+{"problem_id": "113D64", "prediction": "a,d", "explanation": "a,d"}
+{"problem_id": "113D65", "prediction": "b,c", "explanation": "b,c"}
+{"problem_id": "113D66", "prediction": "c,e", "explanation": "c,e"}
+{"problem_id": "113D67", "prediction": "b,e", "explanation": "b,e"}
+{"problem_id": "113D68", "prediction": "a,d", "explanation": "a,d"}
+{"problem_id": "113D69", "prediction": "b, e", "explanation": "b, e"}
+{"problem_id": "113D70", "prediction": "b,e", "explanation": "b,e"}
+{"problem_id": "113D71", "prediction": "c,d", "explanation": "c,d"}
+{"problem_id": "113D72", "prediction": "a,b", "explanation": "a,b"}
+{"problem_id": "113D73", "prediction": "a,c", "explanation": "a,c"}
+{"problem_id": "113D74", "prediction": "d,e", "explanation": "d,e"}
+{"problem_id": "113D75", "prediction": "a,b,d", "explanation": "a,b,d"}

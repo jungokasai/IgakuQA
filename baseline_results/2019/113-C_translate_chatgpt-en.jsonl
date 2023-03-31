@@ -1,0 +1,66 @@
+{"problem_id": "113C1", "prediction": "b", "explanation": "b"}
+{"problem_id": "113C2", "prediction": "e", "explanation": "e"}
+{"problem_id": "113C3", "prediction": "d", "explanation": "d"}
+{"problem_id": "113C4", "prediction": "e", "explanation": "e"}
+{"problem_id": "113C5", "prediction": "a", "explanation": "a"}
+{"problem_id": "113C6", "prediction": "e", "explanation": "e"}
+{"problem_id": "113C7", "prediction": "d", "explanation": "d"}
+{"problem_id": "113C8", "prediction": "d", "explanation": "d"}
+{"problem_id": "113C9", "prediction": "c", "explanation": "c"}
+{"problem_id": "113C10", "prediction": "c", "explanation": "c"}
+{"problem_id": "113C11", "prediction": "b, c, d", "explanation": "b, c, d"}
+{"problem_id": "113C12", "prediction": "e", "explanation": "e"}
+{"problem_id": "113C13", "prediction": "c", "explanation": "c"}
+{"problem_id": "113C14", "prediction": "a", "explanation": "a"}
+{"problem_id": "113C15", "prediction": "d", "explanation": "d"}
+{"problem_id": "113C16", "prediction": "b", "explanation": "b"}
+{"problem_id": "113C17", "prediction": "d,e", "explanation": "d,e"}
+{"problem_id": "113C18", "prediction": "b, d", "explanation": "b, d"}
+{"problem_id": "113C19", "prediction": "a,b", "explanation": "a,b"}
+{"problem_id": "113C20", "prediction": "a, d", "explanation": "a, d"}
+{"problem_id": "113C21", "prediction": "a,d", "explanation": "a,d"}
+{"problem_id": "113C22", "prediction": "a, d", "explanation": "a, d"}
+{"problem_id": "113C23", "prediction": "a,c", "explanation": "a,c"}
+{"problem_id": "113C24", "prediction": "a,c,d", "explanation": "a,c,d"}
+{"problem_id": "113C25", "prediction": "d", "explanation": "d"}
+{"problem_id": "113C26", "prediction": "e", "explanation": "e"}
+{"problem_id": "113C27", "prediction": "d", "explanation": "d"}
+{"problem_id": "113C28", "prediction": "c", "explanation": "c"}
+{"problem_id": "113C29", "prediction": "c", "explanation": "c"}
+{"problem_id": "113C30", "prediction": "e", "explanation": "e"}
+{"problem_id": "113C31", "prediction": "a", "explanation": "a"}
+{"problem_id": "113C32", "prediction": "d", "explanation": "d"}
+{"problem_id": "113C33", "prediction": "a", "explanation": "a"}
+{"problem_id": "113C34", "prediction": "c", "explanation": "c"}
+{"problem_id": "113C35", "prediction": "e", "explanation": "e"}
+{"problem_id": "113C36", "prediction": "c (insufficient information provided to make a definitive diagnosis, but based on the location and type of rash, contact dermatitis from benzoyl peroxide is a possible cause)", "explanation": "c (insufficient information provided to make a definitive diagnosis, but based on the location and type of rash, contact dermatitis from benzoyl peroxide is a possible cause)"}
+{"problem_id": "113C37", "prediction": "a (electroencephalogram or eeg testing is commonly used to diagnose and monitor epilepsy, which is a possible cause of the patient's symptoms)", "explanation": "a (electroencephalogram or eeg testing is commonly used to diagnose and monitor epilepsy, which is a possible cause of the patient's symptoms)"}
+{"problem_id": "113C38", "prediction": "c", "explanation": "c"}
+{"problem_id": "113C39", "prediction": "b", "explanation": "b"}
+{"problem_id": "113C40", "prediction": "a", "explanation": "a"}
+{"problem_id": "113C41", "prediction": "d", "explanation": "d"}
+{"problem_id": "113C42", "prediction": "e", "explanation": "e"}
+{"problem_id": "113C43", "prediction": "e", "explanation": "e"}
+{"problem_id": "113C44", "prediction": "d", "explanation": "d"}
+{"problem_id": "113C45", "prediction": "c", "explanation": "c"}
+{"problem_id": "113C46", "prediction": "c", "explanation": "c"}
+{"problem_id": "113C47", "prediction": "c", "explanation": "c"}
+{"problem_id": "113C48", "prediction": "a", "explanation": "a"}
+{"problem_id": "113C49", "prediction": "a,c", "explanation": "a,c"}
+{"problem_id": "113C50", "prediction": "a,b", "explanation": "a,b"}
+{"problem_id": "113C51", "prediction": "a,e", "explanation": "a,e"}
+{"problem_id": "113C52", "prediction": "c", "explanation": "c"}
+{"problem_id": "113C53", "prediction": "b", "explanation": "b"}
+{"problem_id": "113C54", "prediction": "e", "explanation": "e"}
+{"problem_id": "113C55", "prediction": "e", "explanation": "e"}
+{"problem_id": "113C56", "prediction": "a", "explanation": "a"}
+{"problem_id": "113C57", "prediction": "unknown (as the ecg findings are not provided in the given passage)", "explanation": "unknown (as the ecg findings are not provided in the given passage)"}
+{"problem_id": "113C58", "prediction": "b", "explanation": "b"}
+{"problem_id": "113C59", "prediction": "c", "explanation": "c"}
+{"problem_id": "113C60", "prediction": "b (brinkman's index is calculated as number of cigarettes smoked per day multiplied by number of smoking years. in this case, the patient has smoked 15 cigarettes a day for 30 years, so brinkman's index would be 450 (15 x 30)).", "explanation": "b (brinkman's index is calculated as number of cigarettes smoked per day multiplied by number of smoking years. in this case, the patient has smoked 15 cigarettes a day for 30 years, so brinkman's index would be 450 (15 x 30))."}
+{"problem_id": "113C61", "prediction": "a", "explanation": "a"}
+{"problem_id": "113C62", "prediction": "b,d", "explanation": "b,d"}
+{"problem_id": "113C63", "prediction": "b", "explanation": "b"}
+{"problem_id": "113C64", "prediction": "a", "explanation": "a"}
+{"problem_id": "113C65", "prediction": "a,c", "explanation": "a,c"}
+{"problem_id": "113C66", "prediction": "b", "explanation": "b"}

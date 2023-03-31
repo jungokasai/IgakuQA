@@ -1,0 +1,75 @@
+{"problem_id": "112A1", "prediction": "e", "explanation": "e"}
+{"problem_id": "112A2", "prediction": "e", "explanation": "e"}
+{"problem_id": "112A3", "prediction": "d", "explanation": "d"}
+{"problem_id": "112A4", "prediction": "b", "explanation": "b"}
+{"problem_id": "112A5", "prediction": "b", "explanation": "b"}
+{"problem_id": "112A6", "prediction": "b", "explanation": "b"}
+{"problem_id": "112A7", "prediction": "d", "explanation": "d"}
+{"problem_id": "112A8", "prediction": "c", "explanation": "c"}
+{"problem_id": "112A9", "prediction": "e", "explanation": "e"}
+{"problem_id": "112A10", "prediction": "d", "explanation": "d"}
+{"problem_id": "112A11", "prediction": "c", "explanation": "c"}
+{"problem_id": "112A12", "prediction": "b,d", "explanation": "b,d"}
+{"problem_id": "112A13", "prediction": "1,4", "explanation": "1,4"}
+{"problem_id": "112A14", "prediction": "a and c (① is a nasal speculum and ③ is a laryngoscope)", "explanation": "a and c (① is a nasal speculum and ③ is a laryngoscope)"}
+{"problem_id": "112A15", "prediction": "b, e, d", "explanation": "b, e, d"}
+{"problem_id": "112A16", "prediction": "e", "explanation": "e"}
+{"problem_id": "112A17", "prediction": "d", "explanation": "d"}
+{"problem_id": "112A18", "prediction": "a", "explanation": "a"}
+{"problem_id": "112A19", "prediction": "e", "explanation": "e"}
+{"problem_id": "112A20", "prediction": "b", "explanation": "b"}
+{"problem_id": "112A21", "prediction": "d", "explanation": "d"}
+{"problem_id": "112A22", "prediction": "b", "explanation": "b"}
+{"problem_id": "112A23", "prediction": "e", "explanation": "e"}
+{"problem_id": "112A24", "prediction": "e", "explanation": "e"}
+{"problem_id": "112A25", "prediction": "d", "explanation": "d"}
+{"problem_id": "112A26", "prediction": "d", "explanation": "d"}
+{"problem_id": "112A27", "prediction": "d", "explanation": "d"}
+{"problem_id": "112A28", "prediction": "e", "explanation": "e"}
+{"problem_id": "112A29", "prediction": "b", "explanation": "b"}
+{"problem_id": "112A30", "prediction": "b", "explanation": "b"}
+{"problem_id": "112A31", "prediction": "d", "explanation": "d"}
+{"problem_id": "112A32", "prediction": "c", "explanation": "c"}
+{"problem_id": "112A33", "prediction": "c", "explanation": "c"}
+{"problem_id": "112A34", "prediction": "d", "explanation": "d"}
+{"problem_id": "112A35", "prediction": "b", "explanation": "b"}
+{"problem_id": "112A36", "prediction": "e", "explanation": "e"}
+{"problem_id": "112A37", "prediction": "e", "explanation": "e"}
+{"problem_id": "112A38", "prediction": "e", "explanation": "e"}
+{"problem_id": "112A39", "prediction": "a", "explanation": "a"}
+{"problem_id": "112A40", "prediction": "b", "explanation": "b"}
+{"problem_id": "112A41", "prediction": "b", "explanation": "b"}
+{"problem_id": "112A42", "prediction": "e", "explanation": "e"}
+{"problem_id": "112A43", "prediction": "d", "explanation": "d"}
+{"problem_id": "112A44", "prediction": "e", "explanation": "e"}
+{"problem_id": "112A45", "prediction": "this question lacks information/ context to arrive at a correct answer. could you provide more details or clarity on the question?", "explanation": "this question lacks information/ context to arrive at a correct answer. could you provide more details or clarity on the question?"}
+{"problem_id": "112A46", "prediction": "c", "explanation": "c"}
+{"problem_id": "112A47", "prediction": "b", "explanation": "b"}
+{"problem_id": "112A48", "prediction": "e", "explanation": "e"}
+{"problem_id": "112A49", "prediction": "c", "explanation": "c"}
+{"problem_id": "112A50", "prediction": "d", "explanation": "d"}
+{"problem_id": "112A51", "prediction": "e", "explanation": "e"}
+{"problem_id": "112A52", "prediction": "d", "explanation": "d"}
+{"problem_id": "112A53", "prediction": "e", "explanation": "e"}
+{"problem_id": "112A54", "prediction": "d", "explanation": "d"}
+{"problem_id": "112A55", "prediction": "a", "explanation": "a"}
+{"problem_id": "112A56", "prediction": "e", "explanation": "e"}
+{"problem_id": "112A57", "prediction": "d", "explanation": "d"}
+{"problem_id": "112A58", "prediction": "e", "explanation": "e"}
+{"problem_id": "112A59", "prediction": "d", "explanation": "d"}
+{"problem_id": "112A60", "prediction": "b", "explanation": "b"}
+{"problem_id": "112A61", "prediction": "c, d", "explanation": "c, d"}
+{"problem_id": "112A62", "prediction": "b", "explanation": "b"}
+{"problem_id": "112A63", "prediction": "a,b", "explanation": "a,b"}
+{"problem_id": "112A64", "prediction": "a,b", "explanation": "a,b"}
+{"problem_id": "112A65", "prediction": "a,c", "explanation": "a,c"}
+{"problem_id": "112A66", "prediction": "b, e", "explanation": "b, e"}
+{"problem_id": "112A67", "prediction": "b, d", "explanation": "b, d"}
+{"problem_id": "112A68", "prediction": "b,e", "explanation": "b,e"}
+{"problem_id": "112A69", "prediction": "b, e", "explanation": "b, e"}
+{"problem_id": "112A70", "prediction": "d,e", "explanation": "d,e"}
+{"problem_id": "112A71", "prediction": "c, d", "explanation": "c, d"}
+{"problem_id": "112A72", "prediction": "a,c", "explanation": "a,c"}
+{"problem_id": "112A73", "prediction": "a,c", "explanation": "a,c"}
+{"problem_id": "112A74", "prediction": "d,e", "explanation": "d,e"}
+{"problem_id": "112A75", "prediction": "c,d", "explanation": "c,d"}
